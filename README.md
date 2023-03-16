@@ -1,4 +1,4 @@
-# Django-Weather-App
+# Weather-App
 
 * A web application that provides weather updates for any city
 * Open Weather Map API is used to acquire information 
